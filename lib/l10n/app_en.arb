@@ -1,0 +1,28 @@
+{
+  "welcome": "welcome",
+  "singIn": " Sign in",
+  "singUp": "Sign up",
+  "enterYourEmail": "Enter your email",
+  "enterYourPass": "Enter your password",
+  "password": "Password",
+  "email": "E-mail",
+  "login": "Login",
+  "forgotPass": "Forgot Password?",
+  "orSignInWith": "Or signin with",
+  "donNotHaveAcc": "Don't have an Account?",
+  "signup": " Sign up",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "enterFirstName": "Enter first name",
+  "enterLastName": "Enter last name",
+  "phoneNum": "Phone Number",
+  "enterPhoneNum": "Enter phone number",
+  "confirmPass": "Confirm Password",
+  "enterConfirmPassword": "Enter confirm password",
+  "alreadyHaveAnAcc": "Already have an account",
+  "pleaseEnterConfirmPassword": "Please enter confirm password",
+  "pleaseEnterLastName": "Please enter last name"
+
+
+}
+
